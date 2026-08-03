@@ -1,23 +1,43 @@
-# CosmicHeart ❤️
+# CosmicHeart 🌌❤️
 
-A futuristic Python particle heart visual engine.
+A cinematic sci-fi heart particle visualization engine written in Python.
 
-## Features
+## Project Goal
 
-- Particle based rendering
-- Galaxy background
-- Modular engine architecture
-- Expandable effects system
+Create a movie-opening style cosmic scene featuring a glowing heart formed by millions of particles.
 
-## Run
+## Features Roadmap
+
+- Particle heart mathematics
+- Galaxy and star field generation
+- Cinematic camera animation
+- Bloom and glow effects
+- Modular rendering architecture
+- Video export support
+
+## Development Status
+
+### Phase 1 - Foundation
+
+- Project structure
+- Runtime entry point
+- Configuration system
+- Automated testing workflow
+
+### Future
+
+- 3D particle renderer
+- Shader effects
+- Nebula simulation
+- Advanced cinematic effects
+
+## Installation
 
 ```bash
 pip install -r requirements.txt
 python run.py
 ```
 
-## Roadmap
+## License
 
-- v2 Bloom effects
-- v3 3D universe core
-- v4 GPU shader renderer
+MIT License
